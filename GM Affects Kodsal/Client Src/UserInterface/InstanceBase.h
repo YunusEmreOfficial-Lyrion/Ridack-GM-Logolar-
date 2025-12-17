@@ -1,12 +1,12 @@
 
 //  --------------------------------------------
-// |	Arat						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Arat						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 AFFECT_RAMADAN_RING,
 
 //  --------------------------------------------
-// |	Altına ekle						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Altına ekle						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 #ifdef GM_NEW_AFFECTS
@@ -17,5 +17,6 @@ AFFECT_RAMADAN_RING,
 #endif
 
 //  --------------------------------------------
-// |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Son						Lyrion YunusEmreOfficial			|
+
 //  --------------------------------------------
