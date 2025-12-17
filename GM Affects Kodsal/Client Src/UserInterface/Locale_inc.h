@@ -1,9 +1,10 @@
 //  --------------------------------------------
-// |	Müsait bi yere ekle						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Müsait bi yere ekle						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 #define GM_NEW_AFFECTS
 
 //  --------------------------------------------
-// |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Son						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
+
