@@ -1,5 +1,5 @@
 //  --------------------------------------------
-// |	Arat						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Arat						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 
@@ -11,7 +11,7 @@ if (GetGMLevel() > GM_LOW_WIZARD)
 
 
 //  --------------------------------------------
-// |	Değiştir						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Değiştir						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 #ifdef GM_NEW_AFFECTS
@@ -44,5 +44,6 @@ if (GetGMLevel() > GM_LOW_WIZARD)
 #endif
 
 //  --------------------------------------------
-// |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Son						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
+
