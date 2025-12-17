@@ -1,12 +1,25 @@
 //  --------------------------------------------
-// |	Arat						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Arat						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
+enum EAffectBits
+{
+	AFF_NONE,
 
-AFF_RAMADAN_RING,
+	AFF_YMIR,
 
+	AFF_CHEONGEUN_WITH_FALL,	// 천근추
+	AFF_POLYMORPH,
+	AFF_WAR_FLAG1,
+	AFF_WAR_FLAG2,
+	AFF_WAR_FLAG3,
+
+	AFF_CHINA_FIREWORK,
+	AFF_HAIR,	// 헤어
+	AFF_GERMANY, // 독일
+		
 //  --------------------------------------------
-// |	Altına ekle						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Altına ekle						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 #ifdef GM_NEW_AFFECTS
@@ -17,5 +30,6 @@ AFF_RAMADAN_RING,
 #endif
 
 //  --------------------------------------------
-// |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Son						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
+
