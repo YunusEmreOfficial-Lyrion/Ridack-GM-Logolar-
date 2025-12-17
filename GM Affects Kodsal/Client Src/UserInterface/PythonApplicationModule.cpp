@@ -1,6 +1,6 @@
 
 //  --------------------------------------------
-// |	Arat						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Arat						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 
@@ -12,7 +12,7 @@
 
 
 //  --------------------------------------------
-// |	Altına Ekle						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Altına Ekle						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 
@@ -23,5 +23,6 @@
 #endif
 
 //  --------------------------------------------
-// |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Son						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
+
