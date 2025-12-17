@@ -1,6 +1,6 @@
 
 ##  --------------------------------------------
-## |	Arat						Lyrion YunusEmreOfficial v0 Mob drop			|
+## |	Arat						Lyrion YunusEmreOfficial			|
 ##  --------------------------------------------
 
 
@@ -8,7 +8,7 @@ chrmgr.RegisterEffect(chrmgr.EFFECT_AFFECT+37, "", "d:/ymir work/effect/etc/guil
 
 
 ##  --------------------------------------------
-## |	Altına ekle						Lyrion YunusEmreOfficial v0 Mob drop			|
+## |	Altına ekle						Lyrion YunusEmreOfficial			|
 ##  --------------------------------------------
 
 
@@ -20,5 +20,6 @@ chrmgr.RegisterEffect(chrmgr.EFFECT_AFFECT+37, "", "d:/ymir work/effect/etc/guil
 
 
 ##  --------------------------------------------
-## |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+## |	Son						Lyrion YunusEmreOfficial			|
 ##  --------------------------------------------
+
