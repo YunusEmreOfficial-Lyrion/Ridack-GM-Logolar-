@@ -1,12 +1,12 @@
 //  --------------------------------------------
-// |	Arat						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Arat						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 BOOL CInstanceBase::IsGameMaster()
 
 
 //  --------------------------------------------
-// |	Değiştir						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Değiştir						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 
@@ -27,5 +27,6 @@ BOOL CInstanceBase::IsGameMaster()
 }
 
 //  --------------------------------------------
-// |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Son						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
+
