@@ -1,5 +1,5 @@
 //  --------------------------------------------
-// |	Arat						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Arat						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 		case AFFECT_YMIR:
@@ -9,7 +9,7 @@
 
 
 //  --------------------------------------------
-// |	Altına ekle						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Altına ekle						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
 
 #if defined(GM_NEW_AFFECTS)
@@ -35,5 +35,6 @@
 #endif
 
 //  --------------------------------------------
-// |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+// |	Son						Lyrion YunusEmreOfficial			|
 //  --------------------------------------------
+
