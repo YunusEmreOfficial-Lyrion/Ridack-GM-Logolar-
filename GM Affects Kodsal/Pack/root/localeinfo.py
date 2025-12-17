@@ -1,6 +1,6 @@
 
 ##  --------------------------------------------
-## |	Müsait yere ekle						Lyrion YunusEmreOfficial v0 Mob drop			|
+## |	Müsait yere ekle						Lyrion YunusEmreOfficial			|
 ##  --------------------------------------------
 
 ## Gördüğnüüz gibi efecktleri çektireceğiniz yer burası dosyayı istediğiniz yere atın buradan da yerini doğru ayrlayın bitti gitti.
@@ -14,5 +14,6 @@ if app.GM_NEW_AFFECTS:
 
 
 ##  --------------------------------------------
-## |	Son						Lyrion YunusEmreOfficial v0 Mob drop			|
+## |	Son						Lyrion YunusEmreOfficial			|
 ##  --------------------------------------------
+
